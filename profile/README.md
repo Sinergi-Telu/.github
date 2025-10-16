@@ -48,7 +48,7 @@ Our mission is to **build tools that empower people** and make technology access
 
 | Role | Name | GitHub |
 |------|------|--------|
-| 🧠 Lead Developer | [@skiezee](https://github.com/skiezee) | 💻 |
+| 🧠 Lead Developer | [@Musyafa](https://github.com/skiezee) | 💻 |
 | 🎨 UI/UX Designer | [@raturayya](https://github.com/raturayya)  [@dindiiinz](https://github.com/dindiiinz) | 🎨 |
 | ⚙️ Backend Engineer | [@Suharyadi](https://github.com/2211102124suharyadi) | 🦀 |
 
