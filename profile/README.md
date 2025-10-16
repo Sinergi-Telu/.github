@@ -1,7 +1,7 @@
 <!-- profile/README.md -->
 
 <p align="center">
-  <img src="https://your-org-logo-url.com/logo.png" width="120" alt="Organization Logo"/>
+  <img src="https://lh3.googleusercontent.com/gg-dl/AJfQ9KQhCvzEXSbh-RvNtEdfwHAWFpL61-Kue9SB60dgmyrrO7SOMfvpzAfG7aDsUsSCrdD_D1cH-UN5yEYE-rzjM4kNj7I877hLZCVzIUWy3-nYf9GpNV1RCVyNMfMneS627EbFXxZtUdO8L56sEECY9CDtv7gLNEeE9fx58L61qRtQGrh7eg=s1024-rj" width="120" alt="Organization Logo"/>
 </p>
 
 <h1 align="center">✨ Welcome to Sinergi ✨</h1>
