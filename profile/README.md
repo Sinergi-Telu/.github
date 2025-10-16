@@ -54,8 +54,8 @@ Our mission is to **build tools that empower people** and make technology access
 | Role | Name | GitHub |
 |------|------|--------|
 | 🧠 Lead Developer | [@skiezee](https://github.com/skiezee) | 💻 |
-| 🎨 UI/UX Designer | [@raturayya](https://github.com/raturayya) | 🎨 |
-| ⚙️ Backend Engineer | [@dindiiinz](https://github.com/dindiiinz) | 🦀 |
+| 🎨 UI/UX Designer | [@raturayya](https://github.com/raturayya)  [@dindiiinz](https://github.com/dindiiinz) | 🎨 |
+| ⚙️ Backend Engineer | [@Suharyadi](https://github.com/2211102124suharyadi) | 🦀 |
 
 > Interested in joining us? Check out our [contribution guide](https://github.com/sinergi/.github/blob/main/CONTRIBUTING.md)!
 
