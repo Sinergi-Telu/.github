@@ -82,5 +82,5 @@ Read our [Code of Conduct](https://github.com/sinergi/.github/blob/main/CODE_OF_
 ---
 
 <p align="center">
-  <sub>© [Year] [Your Organization Name]. Built with ❤️ and open source spirit.</sub>
+  <sub>© [2025] [Sinergi]. Built with ❤️ and open source spirit.</sub>
 </p>
